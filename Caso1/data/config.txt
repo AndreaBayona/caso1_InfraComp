@@ -1,0 +1,13 @@
+numClientes=10
+numServidores=4
+tamBuffer=6
+numConsultasCliente0=5
+numConsultasCliente1=2
+numConsultasCliente2=10
+numConsultasCliente3=4
+numConsultasCliente4=4
+numConsultasCliente5=4
+numConsultasCliente6=7
+numConsultasCliente7=3
+numConsultasCliente8=9
+numConsultasCliente9=6
